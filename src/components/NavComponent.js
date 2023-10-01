@@ -24,7 +24,7 @@ const NavComponent = () => {
                         <Offcanvas.Body>
                            
                             <Nav className="justify-content-end flex-grow-1 pe-3">
-                                <Nav.Link href="./Home">Home</Nav.Link>
+                                <Nav.Link href="">Home</Nav.Link>
                                
                                 
                                
